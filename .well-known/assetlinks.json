@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sirab.sirabdelivery",
+    "sha256_cert_fingerprints":
+    ["F8:DE:4B:12:1A:AD:87:6C:4D:8E:FE:20:46:06:B2:95:22:F6:58:D2:A6:C1:78:05:EB:36:0D:2F:A3:1A:B3:AE"]
+  }
+}]
